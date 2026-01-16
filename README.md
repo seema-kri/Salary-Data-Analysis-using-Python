@@ -59,21 +59,6 @@ The dataset opens directly on GitHub and allows quick preview of rows and column
 Below is a summary dashboard created from the analysis:
 ![Salary Data Analysis Dashboard](Salary_data_analysis_dashboard.png)
 
-## Key Visualizations
-├── Salary_data_analysis.ipynb          # Main analysis notebook
-├── Salary_Dataset_DSL.csv              # Dataset (clickable & previewable)
-├── README.md                           # Project documentation
-├── Salary Distribution.png             # Salary distribution plot
-├── Salary Outliers.png                 # Outlier detection plot
-├── Rating vs Salary.png                # Rating vs salary analysis
-├── Top 10 Cities by Average Salary.png # City-wise salary comparison
-├── Top 10 Job Roles by Average Salary.png
-├── Top 10 Most Common Job Roles.png
-├── Salary_data_analysis_dashboard.png  # Summary dashboard
-└── LICENSE
-
-
-
 ---
 
 ## Key Analysis Performed
