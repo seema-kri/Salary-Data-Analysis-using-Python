@@ -60,10 +60,18 @@ Below is a summary dashboard created from the analysis:
 ![Salary Data Analysis Dashboard](Salary_data_analysis_dashboard.png)
 
 ## Key Visualizations
-- 📊 [Salary Distribution](Salary Distribution.png)
-- 📈 [Rating vs Salary](Rating vs Salary.png)
-- 🏙️ [Top Cities by Average Salary](Top 10 Cities by Average Salary.png)
-- 💼 [Top Job Roles by Average Salary](Top 10 Job Roles by Average Salary.png)
+├── Salary_data_analysis.ipynb          # Main analysis notebook
+├── Salary_Dataset_DSL.csv              # Dataset (clickable & previewable)
+├── README.md                           # Project documentation
+├── Salary Distribution.png             # Salary distribution plot
+├── Salary Outliers.png                 # Outlier detection plot
+├── Rating vs Salary.png                # Rating vs salary analysis
+├── Top 10 Cities by Average Salary.png # City-wise salary comparison
+├── Top 10 Job Roles by Average Salary.png
+├── Top 10 Most Common Job Roles.png
+├── Salary_data_analysis_dashboard.png  # Summary dashboard
+└── LICENSE
+
 
 
 ---
