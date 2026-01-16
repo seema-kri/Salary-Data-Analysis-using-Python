@@ -50,8 +50,7 @@ This project does **not** include machine learning or salary prediction.
 
 ## Project Structure
 
-```
-.
+
 ## Dataset Preview
 - 📄 [Click here to view the dataset](Salary_Dataset_DSL.csv)
 The dataset opens directly on GitHub and allows quick preview of rows and columns.
@@ -66,8 +65,6 @@ Below is a summary dashboard created from the analysis:
 - 🏙️ [Top Cities by Average Salary](Top 10 Cities by Average Salary.png)
 - 💼 [Top Job Roles by Average Salary](Top 10 Job Roles by Average Salary.png)
 
-
-```
 
 ---
 
