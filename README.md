@@ -109,12 +109,6 @@ Metro cities such as **Mumbai, Bangalore, and Pune** offer higher average salari
 
 ---
 
-## Note on AI Usage
-
-AI tools were used only to **clarify ideas, structure explanations, and improve readability**. All analysis, code execution, and conclusions are based on my own work and understanding.
-
----
-
 ## Author
 
 Seema Kumari
